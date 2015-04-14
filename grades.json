@@ -5,5 +5,19 @@
     "email": "email@berkeley.edu", 
     "github_name": "github_name", 
     "status": "enrolled", 
-    "grades": {}
+    "grades": {
+        "hw4": {
+            "note": "", 
+            "hash": "a3fd8280ff2628a9993406032778ab92eb9197a0", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw4": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
+        }
+    }
 }
